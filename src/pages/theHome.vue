@@ -1,3 +1,3 @@
 <template>
-    <p>hello, supper!</p>
+    <p>Git new repositoriy!</p>
 </template>
